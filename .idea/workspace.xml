@@ -5,36 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9af74eed-dd4c-44eb-b18e-693a3e9ce0f7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 2/Prubea.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 2/operates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 2/proyectico.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 2/round.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 3/Diccionarios.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 3/ProyectoDelDia3_AnalisadorDeTexto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 3/tuplas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 4/Min y Max.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 4/Proyectico de adivinar numero.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 4/enumerate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 4/for.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 4/listComprengeichon.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 4/range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 4/while.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 5/Args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 5/Ejercicio4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 5/Funciones.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 5/ProyectoAhorcado/Main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 5/ProyectoAhorcado/prueba.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 5/ejercicio1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 5/ejercicio2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 5/ejercicio3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 5/kwargs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 6/ProyectoDelDia6_AdministradorDeRecetas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +116,7 @@
       <workItem from="1717001773141" duration="3712000" />
       <workItem from="1717733127280" duration="873000" />
       <workItem from="1717899163300" duration="3054000" />
-      <workItem from="1717939634911" duration="13980000" />
+      <workItem from="1717939634911" duration="17611000" />
     </task>
     <servers />
   </component>
