@@ -33,6 +33,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;JoseAroudo&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/JoseAroudo/Curso---Python-TOTAL--Programador-Avanzado-en-16-d-as.git&quot;,
+    &quot;accountId&quot;: &quot;d2e2dc17-f4aa-4097-8878-3eb0574c9a20&quot;
+  }
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -116,7 +128,8 @@
       <workItem from="1717001773141" duration="3712000" />
       <workItem from="1717733127280" duration="873000" />
       <workItem from="1717899163300" duration="3054000" />
-      <workItem from="1717939634911" duration="17611000" />
+      <workItem from="1717939634911" duration="18576000" />
+      <workItem from="1718060859849" duration="1493000" />
     </task>
     <servers />
   </component>
@@ -128,7 +141,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
